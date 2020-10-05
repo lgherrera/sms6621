@@ -1,0 +1,38 @@
+13:03:26.1355 [Notificacion SMS]
+13:03:26.1355 [Notificacion SMS][QUERY_STRING]
+13:03:26.2198 [Notificacion SMS][SERVER]Array
+(
+    [UNIQUE_ID] => Xs6dXkn5LWlqXasy-amNnAAAAAM
+    [HTTP_HOST] => 54.210.98.108
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ACCEPT_LANGUAGE] => es-CL,es;q=0.8,en-US;q=0.5,en;q=0.3
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.4.29 (Ubuntu)
+    [SERVER_NAME] => 54.210.98.108
+    [SERVER_ADDR] => 172.30.4.184
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 190.82.82.30
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => /ws
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html/ws
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ws/EPCS_api_sms_6921.php
+    [REMOTE_PORT] => 58050
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ws/EPCS_api_sms_6921.php
+    [SCRIPT_NAME] => /ws/EPCS_api_sms_6921.php
+    [PHP_SELF] => /ws/EPCS_api_sms_6921.php
+    [REQUEST_TIME_FLOAT] => 1590599006.131
+    [REQUEST_TIME] => 1590599006
+)
+
+13:03:26.2199 [Notificacion SMS][ERROR]faltan parametro

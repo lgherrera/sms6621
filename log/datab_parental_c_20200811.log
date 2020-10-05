@@ -1,0 +1,20 @@
+16:21:55.7292 Incoming APP request|rut:202405258
+16:21:56.2748 Calling Databusiness webservice|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|IdUser:ZGP.ZGROUPWS|IdRut:202405258
+16:21:57.3571 TX_OK|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|fecha:11/08/2020|hora:16:21:56|usuario:ZGP.ZGROUPWS|cliente:
+16:21:57.3581 TX_RESPONSE|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|rut:202405258|rut_tipo:N|nombre:PALOMA IGNACIA SWENNOSEN LABARCA|actividad:PROFESION NO CODIF|defuncion:NO|fecha:-|direccion:-|comuna:-|ciudad:-|region:-|fecha_nac:02/08/1999|edad:21|sexo:FEMENINO
+16:22:18.3511 Incoming APP request|rut:170538471
+16:22:18.3523 Calling Databusiness webservice|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|IdUser:ZGP.ZGROUPWS|IdRut:170538471
+16:22:19.3483 TX_OK|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|fecha:11/08/2020|hora:16:22:18|usuario:ZGP.ZGROUPWS|cliente:
+16:22:19.3486 TX_RESPONSE|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|rut:170538471|rut_tipo:N|nombre:DAVID ANDRES VEGA HERNANDEZ|actividad:PROFESION NO CODIF|defuncion:NO|fecha:-|direccion:SAN ISIDRO 154 2204|comuna:SANTIAGO|ciudad:SANTIAGO|region:METROPOLITANA|fecha_nac:03/06/1989|edad:31|sexo:MASCULINO
+16:22:43.9297 Incoming APP request|rut:170255674
+16:22:43.9299 Calling Databusiness webservice|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|IdUser:ZGP.ZGROUPWS|IdRut:170255674
+16:22:44.9571 TX_OK|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|fecha:11/08/2020|hora:16:22:44|usuario:ZGP.ZGROUPWS|cliente:
+16:22:44.9573 TX_RESPONSE|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|rut:170255674|rut_tipo:N|nombre:LESLIE SOLANGE GORIGOITIA ORREGO|actividad:PROFESION NO CODIF|defuncion:NO|fecha:-|direccion:AVENIDA NUEVA SAN MARTIN 1357|comuna:MAIPU|ciudad:SANTIAGO|region:METROPOLITANA|fecha_nac:09/11/1988|edad:31|sexo:FEMENINO
+16:24:20.8398 Incoming APP request|rut:178328824
+16:24:20.8400 Calling Databusiness webservice|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|IdUser:ZGP.ZGROUPWS|IdRut:178328824
+16:24:21.7292 TX_OK|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|fecha:11/08/2020|hora:16:24:21|usuario:ZGP.ZGROUPWS|cliente:
+16:24:21.7294 TX_RESPONSE|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|rut:178328824|rut_tipo:N|nombre:CATALINA FRANCISCA CACERES OVALLE|actividad:PROFESION NO CODIF|defuncion:NO|fecha:-|direccion:-|comuna:-|ciudad:-|region:-|fecha_nac:03/02/1991|edad:29|sexo:FEMENINO
+16:24:51.0919 Incoming APP request|rut:141216783
+16:24:51.0935 Calling Databusiness webservice|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|IdUser:ZGP.ZGROUPWS|IdRut:141216783
+16:24:51.9866 TX_OK|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|fecha:11/08/2020|hora:16:24:51|usuario:ZGP.ZGROUPWS|cliente:
+16:24:51.9867 TX_RESPONSE|URL:https://ws.transunionchile.cl/WS_FRMDRP.asmx?wsdl|rut:141216783|rut_tipo:N|nombre:ALEJANDRA JENNIFER DIAZ SEGURA|actividad:PROFESION NO CODIF|defuncion:NO|fecha:-|direccion:NUEVA PLATON 5717|comuna:QUINTA NORMAL|ciudad:SANTIAGO|region:METROPOLITANA|fecha_nac:25/08/1981|edad:38|sexo:FEMENINO
